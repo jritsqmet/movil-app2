@@ -4,7 +4,7 @@ import BottomNavigation from './Navigators/BottomNavigator';
 
 export default function App() {
   return (
-    <BottomNavigation></BottomNavigation>
+    <BottomNavigation/>
     
   );
 }
